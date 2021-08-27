@@ -1,0 +1,22 @@
+body {
+    background-color: #ccc;
+}
+h1 {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#primeiro {
+    float: right;
+}
+p {
+    color: rgb(136, 20, 20);
+    text-transform: capitalize;
+}
+#meio {
+    text-decoration: line-through;
+    
+}
+a{
+    text-decoration: none;
+}
